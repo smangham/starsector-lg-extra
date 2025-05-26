@@ -1,0 +1,43 @@
+{
+    "displayName": "Lion's Guard",
+    "fluxCapacitors": 11,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "toaster_champion_lg",
+    "hullMods": ["targetingunit"],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "toaster_champion_lg_Standard",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 008": "autopulse"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 009": "gigacannon"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "pulselaser",
+                "WS 007": "pulselaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "lrpdlaser",
+                "WS 001": "lrpdlaser",
+                "WS 004": "lrpdlaser",
+                "WS 005": "lrpdlaser",
+                "WS 010": "lrpdlaser",
+                "WS 011": "lrpdlaser"
+            }
+        }
+    ]
+}
