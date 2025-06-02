@@ -1,0 +1,6 @@
+{
+  # variantOverrides restricts hulls to listed variants and adjusts their probability
+  "variantOverrides":{
+    "toaster_conquest2_lg_Standard":5,
+  },
+},

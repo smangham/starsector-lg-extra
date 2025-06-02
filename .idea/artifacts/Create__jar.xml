@@ -2,7 +2,7 @@
   <artifact type="jar" build-on-make="true" name="Create .jar">
     <output-path>$PROJECT_DIR$/jars</output-path>
     <root id="archive" name="toaster_lg_extra.jar">
-      <element id="module-output" name="starsector-intellij-template" />
+      <element id="module-output" name="starsector-lg-extra" />
     </root>
   </artifact>
 </component>
