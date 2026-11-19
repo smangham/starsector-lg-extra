@@ -1,6 +1,6 @@
 {
     "displayName": "Lion's Guard",
-    "fluxCapacitors": 11,
+    "fluxCapacitors": 21,
     "fluxVents": 30,
     "goalVariant": true,
     "hullId": "toaster_champion_lg",

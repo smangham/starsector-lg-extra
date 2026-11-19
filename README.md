@@ -1,6 +1,6 @@
 # Lion's Guard Extras
 
-`v1.0.1` for Starsector `0.98a-RC8`, made using [Wisp's IntelliJ Mod Template](https://github.com/wispborne/Starsector-IntelliJ-Template)
+`v1.0.2` for Starsector `0.98.5a-RC7`, made using [Wisp's IntelliJ Mod Template](https://github.com/wispborne/Starsector-IntelliJ-Template)
 
 ## Description
 

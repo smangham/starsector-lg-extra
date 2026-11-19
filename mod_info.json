@@ -3,9 +3,9 @@
   "name": "Lion's Guard Extras", # Displayed to the player
   "author": "Talkie Toaster",
   "utility": false,
-  "version": { "major": '1', "minor": '0', "patch": '1' },
+  "version": { "major": '1', "minor": '0', "patch": '2' },
   "description": "Adds a Lion's Guard variant of the Champion, and the Conquest Mk. II, using King Alfonzo's sprites.",
-  "gameVersion": "0.98a-RC8",
+  "gameVersion": "0.98.5a-RC7",
   "jars": [ "jars/toaster_lg_extra.jar" ],
   "modPlugin": "toaster.lg_extra.TemplateModPlugin",
   "dependencies": [
