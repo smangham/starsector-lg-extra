@@ -22,7 +22,7 @@
   # Google Drive: https://drive.google.com/uc?id=1dbx-oOyFxy6l2ECLHqNtWg5kBW3lXBo7&export=download  # Note the &export=download
   "masterVersionFile": "https://raw.githubusercontent.com/smangham/starsector-lg-extra/main/toaster_lg_extra.version",
 
-  "modName": "Lion's Guard Extras",
+  "modName": "Lion's Guard Extras & Decommissioning",
 
   # The current patch number
   # Notation is major.minor.patch, trailing zeros are ignored
@@ -31,8 +31,8 @@
   "modVersion":
     {
       "major": 1,
-      "minor": 0,
-      "patch": 2 # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
+      "minor": 1,
+      "patch": 0 # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
     },
 
   # OPTIONAL
@@ -45,7 +45,7 @@
   # OPTIONAL
   # A download link directly to the latest version of your mod.
   # This is used by mod managers/version checkers (eg SMOL, MOSS, LunaLib) to let users quickly update/download without visiting your mod page.
-  "directDownloadURL": "https://github.com/smangham/starsector-lg-extra/releases/download/1.0.0/starsector-lg-extra-1.0.0.zip",
+  "directDownloadURL": "https://github.com/smangham/starsector-lg-extra/releases/latest/download/starsector-lg-extra.zip",
 
   # OPTIONAL
   # A link to your changelog.

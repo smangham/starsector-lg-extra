@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="MagicLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../MagicLib-1.6.1/jars/MagicLib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../MagicLib-1.6.1/jars/MagicLib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MagicLib-1.6.1/jars/MagicLib.jar!/" />
+      <root url="file://$PROJECT_DIR$/../MagicLib-1.6.1/src" />
+      <root url="file://$PROJECT_DIR$/../MagicLib-1.6.1/src" />
+    </SOURCES>
+  </library>
+</component>

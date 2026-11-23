@@ -1,0 +1,2 @@
+id,name,faction,desc,script,icon,order
+tst_lg_decommissioned_submarket,"Diktat Surplus",independent,"A large number of ships and weapons from the toppled regime have made their way to the breaker's yards, and are available for sale.",org.magiclib_tst_lg.campaign.MagicSubmarket,graphics/toaster/icons/lg_decommissioned.png,800

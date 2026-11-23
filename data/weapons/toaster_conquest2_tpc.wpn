@@ -3,7 +3,7 @@
 	"specClass":"projectile",
 	"type":"ENERGY",
 	"size":"LARGE",
-	"everyFrameEffect":"toaster.lg_extra.combat.Conquest2TPCEveryFrameEffect",
+	"everyFrameEffect":"toaster.lg.combat.Conquest2TPCEveryFrameEffect",
 	"turretSprite":"graphics/weapons/onslaught_thermal_turret_base.png",
 	"turretGlowSprite":"",
 	"hardpointSprite":"",

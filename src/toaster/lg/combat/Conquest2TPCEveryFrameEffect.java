@@ -1,4 +1,4 @@
-package toaster.lg_extra.combat;
+package toaster.lg.combat;
 import java.awt.Color;
 import java.util.List;
 

@@ -1,0 +1,24 @@
+{
+    "hidden_key": "$global.sindrianDiktatCollapsed",
+    "no_sell_message": "Sales to Agreus' shipbreaking yards are made on the open market.",
+    "proxy_faction": "lions_guard",
+    "ships": {
+        "quality_bonus": -5,
+        "combat": {
+            "per_size": 25
+        },
+        "static": [
+        ]
+    },
+    "weapons": {
+        "static": [
+            "kineticblaster",
+            "kineticblaster",
+            "kineticblaster",
+            "kineticblaster",
+            "gigacannon",
+            "gigacannon"
+        ],
+        "cull_fraction": 0.3
+    }
+}
